@@ -1,8 +1,41 @@
+<pre>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iv97n) 
+==[ GitHub Profile: YOUR_USERNAME ]====================================
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+                                      .__        _________________       
+                                      |__|__  __/   __   \______  \____  
+                                      |  \  \/ /\____    /   /    /    \ 
+                                      |  |\   /    /    /   /    /   |  \
+                                      |__| \_/    /____/   /____/|___|  /
+                                                                      \/ 
+
+              ======= <a href="https://github.com/YOUR_USERNAME">github.com/YOUR_USERNAME</a> ========
+
+
+--[ 0x00 ]-- Introduction 
+
+    Greetings. I am a software engineer and security enthusiast 
+    currently operating out of the void. I build things, break 
+    things, and occasionally document the wreckage.
+
+    Languages...: C, Python, Rust, Bash
+    Interests...: Systems Programming, Reverse Engineering, OSINT
+
+
+--[ 0x01 ]-- Index of /projects
+
+    Below is a list of my current and past operations:
+
+    [ <a href="https://github.com/YOUR_USERNAME/project-alpha">01 - Project Alpha</a>          ] : A high-performance packet sniffer.
+    [ <a href="https://github.com/YOUR_USERNAME/project-beta">02 - Project Beta</a>           ] : Exploit development framework.
+    [ <a href="https://github.com/YOUR_USERNAME/project-gamma">03 - Project Gamma</a>          ] : Custom bootloader written in x86 asm.
+
+
+--[ 0x02 ]-- Recent Articles & Writeups
+
+    [ <a href="https://yourblog.com/post-1">01 - Bypassing ASLR on Linux</a> ] : Notes from the underground.
+    [ <a href="https://yourblog.com/post-2">02 - Building a C2 in Rust</a>   ] : Architecture and stealth mechanics.
+
+=======================================================================
+</pre>
