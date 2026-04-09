@@ -1,41 +1,33 @@
 <pre>
 
-==[ GitHub Profile: YOUR_USERNAME ]====================================
-
-
                                       .__        _________________       
                                       |__|__  __/   __   \______  \____  
                                       |  \  \/ /\____    /   /    /    \ 
                                       |  |\   /    /    /   /    /   |  \
-                                      |__| \_/    /____/   /____/|___|  /
+                                      |__| \_/    /____/   /____/|___|  /.
                                                                       \/ 
 
-              ======= <a href="https://github.com/YOUR_USERNAME">github.com/YOUR_USERNAME</a> ========
+
+<b> -[ Introduction</b>
+
+    Hi there! My name is <a href="https://www.linkedin.com/in/iv97n/">Ivan</a>, and I'm an Artificial Intelligence master student specializing in cybersecurity. 
+    Currently, I'm most interested in AI red teaming, and I'm a research collaborator in AI and cybersecurity 
+    at Sapienza University of Rome. 
+  
+    Life is an adventure of exploring, learning, failing, and succeeding amid day-to-day uncertainty, so think 
+    of this GitHub profile as my journal for sharing all of that through the lens of coding.
 
 
---[ 0x00 ]-- Introduction 
+<b> -[ AI Red Teaming Portfolio</b>
+  
+    Check out my AI Red Teaming Portfolio here: [ <a href="https://github.com/iv97n/ai-red-teaming">AI Red Teaming</a> ]
 
-    Greetings. I am a software engineer and security enthusiast 
-    currently operating out of the void. I build things, break 
-    things, and occasionally document the wreckage.
+<b> -[ Index of projects</b>
 
-    Languages...: C, Python, Rust, Bash
-    Interests...: Systems Programming, Reverse Engineering, OSINT
+    Below is a list of the project you can find in my profile:
 
+    [ <a href="https://github.com/iv97n/image-captioning">01 - Image Captioning</a> ] : An end-to-end image captioning model trained from scratch.
 
---[ 0x01 ]-- Index of /projects
-
-    Below is a list of my current and past operations:
-
-    [ <a href="https://github.com/YOUR_USERNAME/project-alpha">01 - Project Alpha</a>          ] : A high-performance packet sniffer.
-    [ <a href="https://github.com/YOUR_USERNAME/project-beta">02 - Project Beta</a>           ] : Exploit development framework.
-    [ <a href="https://github.com/YOUR_USERNAME/project-gamma">03 - Project Gamma</a>          ] : Custom bootloader written in x86 asm.
-
-
---[ 0x02 ]-- Recent Articles & Writeups
-
-    [ <a href="https://yourblog.com/post-1">01 - Bypassing ASLR on Linux</a> ] : Notes from the underground.
-    [ <a href="https://yourblog.com/post-2">02 - Building a C2 in Rust</a>   ] : Architecture and stealth mechanics.
 
 =======================================================================
 </pre>
