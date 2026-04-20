@@ -30,5 +30,5 @@
     [ <a href="https://github.com/iv97n/image-captioning">01 - Image Captioning</a> ] : An end-to-end image captioning model trained from scratch.
 
 
-=======================================================================
+================================================================================================
 </pre>
